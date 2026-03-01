@@ -129,6 +129,7 @@ export { VennDiagram } from "./visual/VennDiagram";
 export type { VennDiagramProps } from "./visual/VennDiagram";
 export { NumberLine } from "./visual/NumberLine";
 export type { NumberLineProps } from "./visual/NumberLine";
+export { RecamanVisualization } from "./visual/RecamanVisualization";
 export { MathTreeVisualization } from "./visual/MathTreeVisualization";
 export type {
     MathTreeNode,

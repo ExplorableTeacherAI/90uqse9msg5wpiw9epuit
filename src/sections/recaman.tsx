@@ -6,10 +6,10 @@ import {
     InlineScrubbleNumber,
     InlineFormula,
     InlineTooltip,
+    RecamanVisualization,
 } from '@/components/atoms';
 import { StackLayout, SplitLayout } from '@/components/layouts';
 import { Block } from '@/components/templates';
-import { RecamanVisualization } from '@/components/atoms/visual/RecamanVisualization';
 import { getVariableInfo, numberPropsFromDefinition } from '@/data/variables';
 
 /**
